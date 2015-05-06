@@ -1,4 +1,4 @@
-# extjs-5-gpl
+# Sencha Ext JS 5.1.0 GPLv3
 
 Read This First
 ---------------
